@@ -57,6 +57,7 @@ cat user.data
 Or you can also find `user.data` file and open it with notepad.Then write your `id` and `password` to it(support multiple users,one line for one user.).
 
 
+
 ### 3. Update running route static data. (optional)
 
 You can run following command code to update the static running route data. It will update these files: `route.data` and `tp.data`.
